@@ -40,9 +40,6 @@ public class Customer
 	}
   
 	public void displayDetails()
-    
-    
-    
 	{
     
 		System.out.println("Name:"+getName());
@@ -51,6 +48,5 @@ public class Customer
     
 		System.out.println("Mobile:"+getMobile());
 	}
-	
 	
 }
