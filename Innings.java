@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class Innings
 {
       private String teamname,inningsname;
@@ -72,7 +71,6 @@ public class InningsMain
         
             String teamname,inningsname;
             int runs;
-        
             Scanner sc=new Scanner(System.in);
         
             System.out.println("\nEnter the team name : ");
